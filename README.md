@@ -10,3 +10,7 @@ This code consists N parts:
 5. PIL_SYS.ipynb / PIL_DIA.ipynb : The Personalized Deduction Learning code for Systolic/Diastolic prediction
 6. PDL.ipynb : The Personalized Deduction Learning code for both Systolic and Diastolic prediction
 
+
+
+Authors: Bitewulign Kassa Mekonnen, 2, Wei‑Ru Lu1, 2, Tung‑Han Hsieh, Justin Chu ,and Fu‑Liang Yang
+Research Center for Applied Sciences, Academia Sinica. 
