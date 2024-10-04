@@ -26,10 +26,22 @@ This code reads the index file "sub_info*.txt", from which find the PPG signal d
 To run this code, please put "ppg_analy.py" and "ppg_input.txt" in the same working directory, and run the command:
 
         python3 ./ppg_analy.py <full path of sub_info file>
+  
 ## Signal_pairing.ipynb:
 Based on the output files of ppg_analy.py, this file includes functions for pulse wave segmentaiton, featureing, and output the file with paired PPG pulse.
 
 ## MDL_SYS/DIA.ipynb:
 File includes the MDL model and training/testing fork flow.
 
-Currently, we have parts 1-3 ready for posting on github, and the other parts are still under checking and preparation. They will be posted as soon as everything is ready.
+
+
+## MIL_SYS/DIA.ipynb:
+File includes the MIL model and training/testing fork flow.
+
+## PIL_SYS/DIA.ipynb:
+File includes the MDL model and training/testing fork flow.
+
+## PDL.ipynb:
+File includes the MDL model and training/testing fork flow.
+
+Currently, we have parts 1-3 ready for posting on github, and the other parts are still under checking and preparation. Remainig files will be posted as soon as they are ready.
