@@ -11,6 +11,8 @@ This code consists N parts:
 6. PDL.ipynb : The Personalized Deduction Learning code for both Systolic and Diastolic prediction
 
 
-
 Authors: Bitewulign Kassa Mekonnen, 2, Wei‑Ru Lu1, 2, Tung‑Han Hsieh, Justin Chu ,and Fu‑Liang Yang
 Research Center for Applied Sciences, Academia Sinica. 
+
+
+Currently, we have parts 1-3 ready for posting on github, and the other parts are still under checking and preparation. They will be posted as soon as everything is ready.
