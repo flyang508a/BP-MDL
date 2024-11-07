@@ -2,16 +2,19 @@
 
 This code consists N parts:
 
-1. ppg_analy.py: The PPG signal preprocessing and analysis code.
-2. Signal_pairing.ipynb: PPG waveform segmentation、feature extraction、pairing mechanism and 
-3. MDL_SYS.ipynb / MDL_DIA.ipynb: The Mixed Deduction Learning code for Systolic/Diatolic prediction
-4. MIL_SYS.ipynb / MIL_DIA.ipynb: The Mixed Induction Learning code for Systolic/Diatolic prediction
-5. PIL_SYS.ipynb / PIL_DIA.ipynb : The Personalized Deduction Learning code for Systolic/Diastolic prediction
-6. PDL.ipynb : The Personalized Deduction Learning code for both Systolic and Diastolic prediction
+1. ppg_analy.py: The PPG signal preprocessing and analysis code. [Hsieh, T.-H.]
+2. Signal_pairing.ipynb: PPG waveform segmentation、feature extraction、pairing mechanism and [Mekonne, B., Lu, W.-R.]
+3. MDL_SYS.ipynb / MDL_DIA.ipynb: The Mixed Deduction Learning code for Systolic/Diatolic prediction [Mekonne, B., Lu, W.-R.]
+4. MIL_SYS.ipynb / MIL_DIA.ipynb: The Mixed Induction Learning code for Systolic/Diatolic prediction [Mekonne, B., Lu, W.-R.]
+5. PIL_SYS.ipynb / PIL_DIA.ipynb : The Personalized Deduction Learning code for Systolic/Diastolic prediction [Mekonne, B., Lu, W.-R.]
+6. PDL.ipynb : The Personalized Deduction Learning code for both Systolic and Diastolic prediction [Mekonne, B., Lu, W.-R.]
 
+Name in [ ] indicates the primary contributors.
 
-Authors: Bitewulign Kassa Mekonnen, Wei‑Ru Lu, Tung‑Han Hsieh, Justin Chu ,and Fu‑Liang Yang
+Article Authors: Bitewulign Kassa Mekonnen, Wei‑Ru Lu, Tung‑Han Hsieh, Justin Chu ,and Fu‑Liang Yang
 Research Center for Applied Sciences, Academia Sinica. 
+
+Article: https://doi.org/10.1038/s41598-024-75583-y
 
 ## ppg_analy.py:
 
